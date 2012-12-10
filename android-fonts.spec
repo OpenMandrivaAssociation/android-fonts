@@ -82,3 +82,10 @@ ln -s fonts.dir %{buildroot}%{_xfontdir}/TTF/roboto/fonts.scale
 mkdir -p %{buildroot}%_sysconfdir/X11/fontpath.d/
 ln -s ../../..%_datadir/fonts/TTF/roboto \
     %{buildroot}%_sysconfdir/X11/fontpath.d/ttf-roboto:pri=50
+
+
+%changelog
+* Fri Dec 09 2011 Dmitry Mikhirev <dmikhirev@mandriva.org> 4.0.1_r1.2-1mdv2011.0
++ Revision: 739461
+- imported package android-fonts
+
