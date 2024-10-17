@@ -4,7 +4,7 @@ Version:	4.0.1_r1.2
 Release:	%mkrel 1
 License:	Apache License
 Group:		System/Fonts/True type
-URL:		http://source.android.com
+URL:		https://source.android.com
 Source0:	%{name}-%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	freetype-tools
