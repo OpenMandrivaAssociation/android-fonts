@@ -1,7 +1,7 @@
 Summary:	Anroid fonts (Droid and Roboto)
 Name:		android-fonts
 Version:	4.0.1_r1.2
-Release:	%mkrel 1
+Release:	2
 License:	Apache License
 Group:		System/Fonts/True type
 URL:		https://source.android.com
